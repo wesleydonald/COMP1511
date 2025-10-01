@@ -23,6 +23,9 @@
 #define MIN_HEIGHT_RIDE 100.0
 #define MIN_HEIGHT_ALONE 160.0
 
+printf("%c", 'A' + index);
+
+
 int main(void) {
     double height;
     printf("What is you height? ");
