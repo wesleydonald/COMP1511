@@ -1,4 +1,4 @@
-# comp1511
+# COMP1511
 
 Hello Everyone!
 
